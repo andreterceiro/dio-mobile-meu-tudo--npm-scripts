@@ -15,3 +15,7 @@ If you have to do more than 1 task in a script, you can concatenate the comands 
 Here you can see some common script names. Note the use of double column in some script names:
 
 ![common scripts](images/common-scripts.png)
+
+Teacher explained that there is not an universal rule of naming conventions. But he suggested:
+
+- to group the scripts by context using prefixes like "test:" or "start:";
