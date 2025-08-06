@@ -11,3 +11,7 @@ Here you can see the "scripts" node of package.json. You can see here if you nee
 ![package.json scripts](images/example-of-package-json-script.png)
 
 If you have to do more than 1 task in a script, you can concatenate the comands with "&&" (as in "myScript" line in the previous image) or make a script that do ths two things.
+
+Here you can see some common script names. Note the use of double column in some script names:
+
+![common scripts](images/common-scripts.png)
