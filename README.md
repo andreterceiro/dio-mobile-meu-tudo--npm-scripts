@@ -19,3 +19,4 @@ Here you can see some common script names. Note the use of double column in some
 Teacher explained that there is not an universal rule of naming conventions. But he suggested:
 
 - to group the scripts by context using prefixes like "test:" or "start:";
+- to separe the context by the name of the specific action by ":", but he passed an example of React that uses the charaacter "-" as separator (seemed less clear).
