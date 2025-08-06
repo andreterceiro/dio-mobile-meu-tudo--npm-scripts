@@ -9,3 +9,5 @@ You can run a package.json script directly in VSCode using the play button relat
 Here you can see the "scripts" node of package.json. You can see here if you need to use the Node.JS interpreter, you have to include it ('node' before the script name, considering that 'node' can be find through the PATH):
 
 ![package.json scripts](images/example-of-package-json-script.png)
+
+If you have to do more than 1 task in a script, you can concatenate the comands with "&&" (as in "myScript" line in the previous image) or make a script that do ths two things.
