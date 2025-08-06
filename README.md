@@ -20,3 +20,7 @@ Teacher explained that there is not an universal rule of naming conventions. But
 
 - to group the scripts by context using prefixes like "test:" or "start:";
 - to separe the context by the name of the specific action by ":", but he passed an example of React that uses the charaacter "-" as separator (seemed less clear).
+
+Ilustrating the previous text:
+
+![naming conventions of scripts](images/naming-conventions-of-scripts.png)
