@@ -24,3 +24,5 @@ Teacher explained that there is not an universal rule of naming conventions. But
 Ilustrating the previous text:
 
 ![naming conventions of scripts](images/naming-conventions-of-scripts.png)
+
+Another tip of the teacher was to use clear name and standards, making our work clear.
