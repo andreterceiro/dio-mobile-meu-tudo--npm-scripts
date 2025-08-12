@@ -26,3 +26,12 @@ Ilustrating the previous text:
 ![naming conventions of scripts](images/naming-conventions-of-scripts.png)
 
 Another tip of the teacher was to use clear name and standards, making our work clear.
+
+
+# Several links
+
+[Repository related to this module](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/08-npm-scripts)
+
+[Documentation related to NPM scrips](https://docs.npmjs.com/cli/v10/using-npm/scripts)
+
+[Facebook (React library) scripts](https://github.com/facebook/react/blob/main/package.json)
